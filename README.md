@@ -1,6 +1,8 @@
 # kubernetes
 **Owner(s):** Derek VerLee
 
+# Repo is Inactive
+
 [![Submit Queue Widget]][Submit Queue] [![GoDoc Widget]][GoDoc]
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
